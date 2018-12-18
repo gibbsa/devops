@@ -14,7 +14,7 @@
             }
         },
     "dnsLabelPrefix": {
-      "value": "MyLinux"
+      "value": "MyLinus"
     }
   }
 }
